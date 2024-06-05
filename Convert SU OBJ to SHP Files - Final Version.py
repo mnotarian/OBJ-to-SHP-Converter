@@ -7,6 +7,7 @@ With QGIS : 33601
 #This version works with relative paths on Windows, MacOSX or Linux systems
 #A folder is created in the user directory with another python script and to store temporary shapefiles
 #Blender must also be installed on the system
+#The Blender-GIS Addon must also be installed inside Blender
 #The Blender.exe file will be found in the Program Files (Windows) or Applications (MacOS) directory
 #If installed in another location, script might fail
 #Warning - MacOSX and Linux functionality is untested!
